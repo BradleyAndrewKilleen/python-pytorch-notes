@@ -1,0 +1,1 @@
+Pytorch is NumPy, but uses GPU cuda cores. Not sure how this applies to ML yet.
